@@ -29,3 +29,6 @@ console.log(usuario)
 
 usuario.autentica('bruna', 'minhaSenha')
 usuario.autentica('bruna', 'minhasenha')
+
+//MD5 é um dos primeiros algoritmos de criptografia no entanto hackers descobriram como decodificar
+//A maioria dos especialistas acha que não é seguro para uso generalizado, pois é muito fácil de ser desmontado.
